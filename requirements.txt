@@ -1,5 +1,6 @@
+fast-yt-search
 fastapi
 uvicorn
 httpx
 yt-dlp
-fast-yt-search @ git+https://github.com/yuzubb/fast-yt-search.git
+
