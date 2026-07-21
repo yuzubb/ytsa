@@ -1,1 +1,3 @@
+fast-yt-search==0.8.2
+yt-dlp
 
